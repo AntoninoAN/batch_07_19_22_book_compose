@@ -11,4 +11,7 @@
             MAGAZINE
         </item>
     </string-array>
+    <string name="book_cover_content_description">This is a book cover image.</string>
+    <string name="menu">main menu</string>
+    <string name="log_out">Log out</string>
 </resources>

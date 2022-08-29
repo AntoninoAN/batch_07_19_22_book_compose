@@ -7,6 +7,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
 
 class BookApi {
+
     val api: BookService by lazy{
         initRetrofit()
     }
